@@ -1,0 +1,2 @@
+# LogoS
+Logo pentru proiect
